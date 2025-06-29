@@ -1,0 +1,11 @@
+TaskID,TaskName,Category,Duration,RequiredSkills,PreferredPhases,MaxConcurrent
+T1,Task 1,HVAC,2,hvac,2-4,1
+T2,Task 2,Plumbing,2,plumbing,2-4,1
+T3,Task 3,Painting,3,hvac,3-5,2
+T4,Task 4,General,1,electrical,"[3,4,5]",1
+T5,Task 5,Plumbing,2,carpentry,3-5,3
+T6,Task 6,Electrical,1,plumbing,"[2,3,4]",2
+T7,Task 7,Painting,3,hvac,3-5,3
+T8,Task 8,Carpentry,1,electrical,"[1,2,3]",1
+T9,Task 9,General,3,painting,"[3,4,5]",1
+T10,Task 10,HVAC,1,electrical,3-5,1

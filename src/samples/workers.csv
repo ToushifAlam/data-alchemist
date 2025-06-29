@@ -1,0 +1,11 @@
+WorkerID,WorkerName,Skills,AvailableSlots,MaxLoadPerPhase,WorkerGroup,QualificationLevel
+W1,Alice,"plumbing,electrical","[1,2,3]",2,GroupA,Senior
+W2,Bob,"carpentry","[2,3,4]",1,GroupB,Junior
+W3,Charlie,"electrical,carpentry","[1,3,5]",2,GroupA,Mid
+W4,David,"painting,electrical","[2,4,5]",2,GroupC,Senior
+W5,Eva,"hvac,plumbing","[1,2,4]",1,GroupB,Mid
+W6,Frank,"plumbing,carpentry","[2,3,4]",2,GroupA,Junior
+W7,Grace,"electrical","[1,3,5]",1,GroupC,Senior
+W8,Hank,"painting,carpentry","[2,4,5]",2,GroupB,Mid
+W9,Ivy,"hvac","[1,2,3]",1,GroupA,Junior
+W10,Jack,"plumbing","[2,3,4]",2,GroupC,Mid
